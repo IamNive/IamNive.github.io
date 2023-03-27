@@ -17,7 +17,7 @@ h2 {
     font-stretch: expanded;
     font-weight: 500;
     font-size: 30px;
-    margin-top: -40px;
+    margin-top: -42px;
     margin-left: 135px;
     justify-items: stretch;
 
@@ -155,9 +155,11 @@ td {
     width: 100% ;
     height: 900px; 
     margin-top: -26.5px;
-    image-resolution: 200%;
+    image-resolution: 100%;
     opacity: 70% ;
+    object-fit: cover;
 }
+
 .one {
     width: 100%;
     height: 400px;
