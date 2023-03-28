@@ -159,7 +159,7 @@ td {
     margin-top: -26.5px;
     image-resolution: 100%;
     opacity: 70% ;
-    object-fit: cover;
+    object-fit:scale-down;
 }
 
 .one {
