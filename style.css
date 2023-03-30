@@ -29,6 +29,7 @@ h2 {
 }
 
 header {
+    display:block;
     margin-top: -1.7%;
 }
 
